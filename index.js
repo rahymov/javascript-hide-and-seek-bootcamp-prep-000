@@ -9,7 +9,7 @@ function nestedTarget(){
 
 function increaseRankBy(n){
   let parsed =  document.querySelector() ;
-  return 
+  return parsed;
 }
 
 function deepestChild(){
