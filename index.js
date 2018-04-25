@@ -9,7 +9,7 @@ function nestedTarget(){
 
 function increaseRankBy(n){
   let rnklists =  document.querySelector('ranked-list') ;
-  return parsed ;
+  return  ;
 }
 
 function deepestChild(){
